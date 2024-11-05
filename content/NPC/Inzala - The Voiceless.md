@@ -1,6 +1,7 @@
 ---
 aliases:
   - Inzala
+  - inzala
 ---
 
 ## Looks

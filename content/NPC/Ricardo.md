@@ -14,4 +14,4 @@
 
 #### Geschiedenis
 - Veel zijn we nog niet te weten gekomen over onze Ricardo
-- Hielp [[De Wezen]] te ontsnappen aan [[Inzala]]
+- Hielp [[De Wezen]] te ontsnappen aan [[content/NPC/Inzala - The Voiceless]]
