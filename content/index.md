@@ -1,7 +1,7 @@
 ---
 title: The Orphans Of Elderberry
 ---
-Vele jaren geleden werd [Enora](content/Plaatsen/Enora.md) geteisterd door [Inzala - The Voiceless](content/NPC/Inzala%20-%20The%20Voiceless.md). 
+Vele jaren geleden werd [[Enora]] geteisterd door [Inzala - The Voiceless](content/NPC/Inzala%20-%20The%20Voiceless.md)
 
 Het begon met hier en daar een brandje of met het bang maken van mensen net buiten de stadsmuren. Al vlug veranderde dit. [Inzala](content/NPC/Inzala%20-%20The%20Voiceless.md) begon namelijk met een leger op te bouwen.
 Een leger bestaande uit allemaal mythische, donkere, afschuwelijke beesten en monsters.
