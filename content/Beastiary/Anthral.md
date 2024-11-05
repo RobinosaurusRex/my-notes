@@ -7,7 +7,6 @@
 - Zeer sadistisch
 - Chanteert een ander door dreigementen 
 
-
 #### Geschiedenis
 - Teisterde het stadje [[Vilgùr]]
 - Dwong 5 goblins voor hem te werken
