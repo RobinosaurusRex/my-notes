@@ -16,7 +16,7 @@ Hierna werd [[Het bondgenootschap]] aanzien als redders van [[Enora]]. Als dankb
 
 De meest recente gebeurtenissen vinden hun roots bij 7 weeskinderen. Door een stom toeval kwam [[De rode muziekdoos]] in hun bezit. Hun doel was om deze ,toch wel vreemde,  kubus terug te brengen naar zijn rechtmatige eigenaar. [[Raïna]] werd beschouwd deze persoon te zijn. Hun missie verliep niet zonder vlekken, maar ze konden hem tot bij haar brengen. Alles verliep, op het eerste zicht, wel goed. Tot dat 1 van de kinderen de [[Chalem]]-spreuk uitsprak. Zonder bepaalde beschermspreuken werd hiermee de magische barriere,  die [[Inzala - The Voiceless|Inzala]] al die tijd al binnen hield, verbroken. Hierdoor kon [[Inzala - The Voiceless|Inzala]] ontsnappen, sterk verzwakt door een tekort aan voeding en door de magische onderdrukkingen, maar toch.
 
-Zonder twijfel zal [[Inzala - The Voiceless|Inzala]] er alles aan doen om terug te kunnen regeren over het prachtige [Enora](content/Plaatsen/Enora.md). Zullen onze helden er in slagen om haar tegen te houden? Zullen ze op tijd zijn om het kwade tegen te houden? Zullen ze sterk genoeg zijn om hun queeste tot een goed einde te brengen? 
+Zonder twijfel zal [[Inzala - The Voiceless|Inzala]] er alles aan doen om terug te kunnen regeren over het prachtige [[Enora]]. Zullen onze helden er in slagen om haar tegen te houden? Zullen ze op tijd zijn om het kwade tegen te houden? Zullen ze sterk genoeg zijn om hun queeste tot een goed einde te brengen? 
 
 Dat zal door 7 prachtige dobbelstenen beslist worden voor elk individu.
 
