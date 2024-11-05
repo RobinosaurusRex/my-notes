@@ -3,8 +3,8 @@
 - Paarse sjaal
 - Strohoed met een veer
 - Blauwe schubben
-![[Ricardo1.png|200]]
-![Alt text](relative%20path/to/img.jpg?raw=true "Ricardo1.png")
+- ![Ricardo1](https://github.com/user-attachments/assets/8b987cbf-8c68-4720-b13a-e0d83bf2cb63)
+
 ### Karaktereigenschappen
 - Lief en vredevol
 - Kent veel magische liederen, verzen en spreuken
