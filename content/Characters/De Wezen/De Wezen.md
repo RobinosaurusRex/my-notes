@@ -1,4 +1,3 @@
-
 ## About
 Onze Helden, die op avontuur gaan om de kwaadaardige [[Inzala - The Voiceless|Inzala]] te stoppen.
 Als kinderen in het avontuur gerold en als doorgewinterde avonturiers doorgetrokken.
