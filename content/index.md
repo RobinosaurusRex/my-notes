@@ -21,4 +21,4 @@ Zonder twijfel zal [[Inzala - The Voiceless|Inzala]] er alles aan doen om terug 
 Dat zal door 7 prachtige dobbelstenen beslist worden voor elk individu.
 
 
-Have fun! En welkom in [Enora](content/Plaatsen/Enora.md)!!!!!!!
+Have fun! En welkom in [[Enora]]!!!!!!!
