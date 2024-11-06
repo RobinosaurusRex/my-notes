@@ -11,4 +11,3 @@
 
 #### Geschiedenis
 - Weinig is gekend over de geschiedenis van de Coruja's
-- 

@@ -1,7 +1,7 @@
 De wijde wereld waarin het avontuur zich afspeelt.
 
 ## Steden
-- Elderberry
+- [[Elderberry]]
 - [[Vilgùr]]
 
 
