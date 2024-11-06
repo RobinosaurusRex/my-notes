@@ -4,12 +4,9 @@ De wijde wereld waarin het avontuur zich afspeelt.
 - [[Elderberry]]
 - [[Vilgùr]]
 
-
 ### Bergen
 
-
 #### Rivieren
-
 
 ##### Fenomenen
 - Khepera : Zo wordt de ochtendzon genoemd

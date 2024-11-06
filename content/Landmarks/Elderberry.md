@@ -6,8 +6,7 @@ In elke windrichting vinden we een wachttoren die uitkijkt over alles en iederee
 Opgedeeld in 5 kwartieren waar arm en rijk verdeeld waren.
 Volledig omringd door bos.
 
-
-### Gekende personen
+### Gekende NPC's
 - [[Ricardo]] : Een gekende Bard in de stad
 - [[Raïna]] : Eigenaar van [[De rode muziekdoos]]
 - [[Thara]] : Hoofd van [[Het Weeshuis]]

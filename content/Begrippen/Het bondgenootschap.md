@@ -1,11 +1,6 @@
 
-## Looks
-Ongekend
+## About
 
-### Karaktereigenschappen
-Ongekend
-
-#### Geschiedenis
 - Heeft [[Inzala - The Voiceless|Inzala]] kunnen verslaan aan de hand van een [[De rode muziekdoos|muziekdoos]]
 - Hebben [[Inzala - The Voiceless|Inzala]] jarenlang kunnen opsluiten
 - Hebben de volledige bevolking van [[Enora]] bevrijd
