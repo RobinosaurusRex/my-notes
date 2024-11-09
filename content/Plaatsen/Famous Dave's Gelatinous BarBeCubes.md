@@ -4,4 +4,6 @@
 - uitgebaat door [[Dave]] 
 ### Whereabouts
 - Dicht bij de [[Training Grounds]] en [[HQ]]
-#### [[Famous%20dave's%20menukaart%201.pdf |Menu]]
+
+#### Menu
+#### [[Famous dave's menukaart.pdf |Chart]]
