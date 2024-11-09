@@ -6,7 +6,14 @@ In elke windrichting vinden we een wachttoren die uitkijkt over alles en iederee
 Opgedeeld in 5 kwartieren waar arm en rijk verdeeld waren.
 Volledig omringd door bos.
 
-### Gekende NPC's
+### Gekende NPC's voor de val van Elderberry
 - [[Ricardo]] : Een gekende Bard in de stad
 - [[Raïna]] : Eigenaar van [[De rode muziekdoos]]
 - [[Thara]] : Hoofd van [[Het Weeshuis]]
+
+#### Gekende NPC's na de val van Elderberry
+- [[Cosmo]] : Eigenaar van [[The Lotto Grotto]]
+- [[Dave]] : Eigenaar van [[Famous Dave's Gelatinous BarBeCubes]]
+- [[Omar]] : Eigenaar van [[Omar's Shop For Curiosities]]
+- [[Britney]] : Eigenaar van [[Britney's Spears]]
+- [[Harice]] : Bewaker / Soldaat
