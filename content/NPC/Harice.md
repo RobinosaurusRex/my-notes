@@ -18,5 +18,5 @@
 - Geboren in [[Elderberry]] net na de ontsnapping van [[Inzala - The Voiceless |Inzala]]
 
 ###### Whereabouts
-- Loopt vaak de wacht aan de hoofdingang
+- Loopt vaak de wacht aan de hoofdingang van [[Elderberry]]
 
