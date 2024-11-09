@@ -1,3 +1,7 @@
 ## About
-- Een taverne in [[Vilgùr]],
-- Uitgebaat door [[Nestor]], de Half Orc.
+- Uitgebaat door [[Nestor]]
+- Altijd aanwezig geweest in [[Vilgùr]]
+- Aangename, charmante, gezellige taverne
+
+### Whereabouts
+- Marktplein van [[Vilgùr]] 
