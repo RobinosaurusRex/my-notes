@@ -6,4 +6,4 @@
 - Dicht bij de [[Training Grounds]] en [[HQ]]
 
 #### Menu
-#### [[Famous dave's menukaart.pdf |Chart]]
+[[Famous dave's menukaart.pdf |Menukaart]]
