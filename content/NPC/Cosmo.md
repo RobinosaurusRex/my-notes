@@ -2,7 +2,7 @@
 - Eigenaar van [[The Lotto Grotto]]
 
 ### Looks
-- Shifter, ook gekend als een wetertouched. Iemand die lichte eigenschappen heeft van lychantropen (bv weerwolven, weerberen, weerratten, weertijgers,....)
+- Shifter, ook gekend als een weertouched. Iemand die lichte eigenschappen heeft van lychantropen (bv weerwolven, weerberen, weerratten, weertijgers,....)
 - Ziet eruit als een onbetrouwbaar persoon
 - Zeer chique en luxueus gekleed
 - Ziet eruit als een echte bandiet

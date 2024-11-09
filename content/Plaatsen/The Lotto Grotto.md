@@ -1,5 +1,5 @@
 ## About
-- Uitgebaat door [[Cosmo]] de shifter, aka weretouched
+- Uitgebaat door [[Cosmo]]
 - Het Gokhuis van [[Elderberry]]
 - Gokken is illegaal, dus deze zaak blijft liever onder de radar
 
