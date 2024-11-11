@@ -11,4 +11,4 @@
 - Dikke, volle zwarte baard en snor
 
 #### Karaktersheet
-![](Yuan-Ti%20-%20Klaas%20-%20Aléjandro.pdf)
+- Wordt nog toegevoegd
