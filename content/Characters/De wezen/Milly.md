@@ -9,4 +9,4 @@
 - Bleke huid
 
 #### Karaktersheet
-- Wordt nog toegevoegd
+- [[Milly.pdf|Milly]] 
