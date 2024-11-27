@@ -19,5 +19,7 @@ Volledig omringd door bos.
 - [[Harice]] : Bewaker / Soldaat
 
 
-![](Plattegrond%20Elderberry%201.png|250)
+![](Attachments/Plattegrond%20Elderberry%201.png)
+
+
 
