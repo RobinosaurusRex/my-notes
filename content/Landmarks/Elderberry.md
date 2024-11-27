@@ -17,3 +17,7 @@ Volledig omringd door bos.
 - [[Omar]] : Eigenaar van [[Omar's Shop For Curiosities]]
 - [[Britney]] : Eigenaar van [[Britney's Spears]]
 - [[Harice]] : Bewaker / Soldaat
+
+
+![](Plattegrond%20Elderberry%201.png|250)
+
