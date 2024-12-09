@@ -5,7 +5,7 @@
 
 17 lange jaren na de ramp met de mysterieuze magische muziekdoos in [[Elderberry]] ontmoeten [[Gimble]] en [[Gappa]] elkaar voor de ijzeren poort van het eerder verwoeste [[Elderberry]] gelegen diep in de donkere beboste wouden.
 
-Na een korte reünie en het uitwisselen van de mysterieuze brief die [[Gimble]] eerder ontving, slaagt het duo erin om met het codewoord [[KIFUNGU]] de bewaker te overhalen hen binnen te laten in [[Elderberry]].
+Na een korte reünie en het uitwisselen van de mysterieuze brief die [[Gimble]] eerder ontving, slaagt het duo erin om met het codewoord [[Kifungu|KIFUNGU]] de bewaker te overhalen hen binnen te laten in [[Elderberry]].
 
 De gruwelijke gevolgen zijn nog steeds zeer merkbaar aanwezig in het met tenten bezaaide [[Elderberry]].
 
