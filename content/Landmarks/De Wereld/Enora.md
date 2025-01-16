@@ -1,13 +1,4 @@
 De wijde wereld waarin het avontuur zich afspeelt.
-
-## Steden
-- [[Elderberry]]
-- [[Vilgùr]]
-
-### Bergen
-
-#### Rivieren
-
 ##### Fenomenen
 - Khepera : Zo wordt de ochtendzon genoemd
 - Ra : Zo wordt de middagzon genoemd
