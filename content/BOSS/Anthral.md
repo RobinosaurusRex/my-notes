@@ -10,4 +10,4 @@
 #### Geschiedenis
 - Teisterde het stadje [[Vilgùr]]
 - Dwong 5 goblins voor hem te werken
-- Werd ten val gebracht door [[De 5 pentagonisten]]
+- Werd ten val gebracht door De 5 pentagonisten
