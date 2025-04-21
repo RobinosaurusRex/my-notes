@@ -1,0 +1,2 @@
+- cd my-notes
+- npx quartz sync
