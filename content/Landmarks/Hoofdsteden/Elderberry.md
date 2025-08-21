@@ -5,7 +5,6 @@ Volledig ingesloten door een houten muur met grote houten palen met metalen bols
 In elke windrichting vinden we een wachttoren die uitkijkt over alles en iedereen.
 Opgedeeld in 5 kwartieren waar arm en rijk verdeeld waren.
 Volledig omringd door bos.
-De stad bevindt zich in [[Øzuros]] en moet nog ontdekt worden door onze helden.
 
 ### Gekende NPC's voor de val van Elderberry
 - [[Ricardo]] : Een gekende Bard in de stad

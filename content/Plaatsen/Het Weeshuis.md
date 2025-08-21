@@ -1,6 +1,6 @@
 ## About
 - Aan het hoofd hebben we [[Thara]]
-- Hier begon het avontuur voor onze [[De Wezen |onze helden]]
+- Hier begon het avontuur voor onze onze helden
 - Ontmoetingsplek voor vele kinderen in nood
 
 ### Whereabouts
