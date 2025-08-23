@@ -23,7 +23,7 @@ Dat zal door 7 prachtige dobbelstenen beslist worden voor elk individu.
 
 Have fun! En welkom in [[Enora]]!!!!!!!
 
-![](../Attachments/Dragon's%20chains%20house%20versie.mp3)
+
 <audio controls>
   <source src="assets/muziek/Dragon's%20chains%20house%20versie.mp3" type="audio/mpeg">
 </audio>
