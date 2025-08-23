@@ -22,6 +22,7 @@ Dat zal door 7 prachtige dobbelstenen beslist worden voor elk individu.
 
 Have fun! En welkom in [[Enora]]!!!!!!!
 
+**Luister hier alvast naar onze themesong!! 😁
 
 <audio controls>
   <source src="https://robinosaurusrex.github.io/my-notes/static/muziek/themesong.mp3" type="audio/mpeg">
