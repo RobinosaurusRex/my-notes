@@ -29,3 +29,7 @@ Have fun! En welkom in [[Enora]]!!!!!!!
 </audio>
 
 
+<audio controls>
+  <source src="themesong.mp3" type="audio/mpeg">
+
+</audio>
