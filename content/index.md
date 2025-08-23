@@ -20,8 +20,13 @@ Zonder twijfel zal [[Inzala - The Voiceless|Inzala]] er alles aan doen om terug 
 
 Dat zal door 7 prachtige dobbelstenen beslist worden voor elk individu.
 
-
 Have fun! En welkom in [[Enora]]!!!!!!!
+
+
+<audio controls>
+  <source src="/my-notes/themesong.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
 
 <audio controls>
   <source src="/my-notes/themesong.mp3" type="audio/mpeg">
