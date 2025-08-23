@@ -35,6 +35,6 @@ Have fun! En welkom in [[Enora]]!!!!!!!
 <audio controls>
   <source src="/themesong.mp3" type="audio/mpeg">
 </audio>
- test2
+ test5
  
- 
+ ![Themesong](https://robinosaurusrex.github.io/my-notes/static/muziek/themesong.mp3)
