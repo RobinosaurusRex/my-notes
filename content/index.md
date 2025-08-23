@@ -21,10 +21,7 @@ Zonder twijfel zal [[Inzala - The Voiceless|Inzala]] er alles aan doen om terug 
 Dat zal door 7 prachtige dobbelstenen beslist worden voor elk individu.
 
 
-Have fun! En welkom in [[Enora]]!!!!!!!
-
-![[Dragon's chains house versie]]
-
+Have fun! En welkom in [[Enora]]!!!!!!!agon's chains house versie]]
 
 ![](../Attachments/Dragon's%20chains%20house%20versie.mp3)
 
