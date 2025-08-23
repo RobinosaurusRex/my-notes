@@ -1,0 +1,11 @@
+import { defineConfig } from "./quartz"
+
+export default defineConfig({
+  configuration: {
+    pageTitle: "My Notes",
+    enableLatex: true,
+  },
+  staticAssets: {
+    local: "static",
+  },
+})
