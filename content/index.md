@@ -1,7 +1,7 @@
 ---
 title: The Orphans Of Elderberry
 ---
-Vele jaren geleden werd [[Enora]] geteisterd door [[Inzala - The Voiceless]]
+![](../quartz/static/assets/muziek/Dragon's%20chains%20house%20versie.mp3)Vele jaren geleden werd [[Enora]] geteisterd door [[Inzala - The Voiceless]]
 
 Het begon met hier en daar een brandje of met het bang maken van mensen net buiten de stadsmuren. Al vlug veranderde dit. [[Inzala - The Voiceless|Inzala]] begon namelijk met een leger op te bouwen.
 Een leger bestaande uit allemaal mythische, donkere, afschuwelijke beesten en monsters.
@@ -21,10 +21,9 @@ Zonder twijfel zal [[Inzala - The Voiceless|Inzala]] er alles aan doen om terug 
 Dat zal door 7 prachtige dobbelstenen beslist worden voor elk individu.
 
 
-Have fun! En welkom in [[Enora]]!!!!!!!agon's chains house versie]]
+Have fun! En welkom in [[Enora]]!!!!!!!
 
 ![](../Attachments/Dragon's%20chains%20house%20versie.mp3)
-
 <audio controls>
-  <source src="/assets/muziek/Dragons-chains-house-versie.mp3" type="audio/mpeg">
+  <source src="assets/muziek/Dragon's%20chains%20house%20versie.mp3" type="audio/mpeg">
 </audio>
