@@ -24,17 +24,9 @@ Have fun! En welkom in [[Enora]]!!!!!!!
 
 
 <audio controls>
-  <source src="/my-notes/themesong.mp3" type="audio/mpeg">
-</audio>
-
-
-<audio controls>
   <source src="themesong.mp3" type="audio/mpeg">
 </audio>
-
 <audio controls>
-  <source src="/themesong.mp3" type="audio/mpeg">
+  <source src="https://robinosaurusrex.github.io/my-notes/static/muziek/themesong.mp3" type="audio/mpeg">
+  Je browser ondersteunt geen audio-element.
 </audio>
- test5
- 
- ![Themesong](https://robinosaurusrex.github.io/my-notes/static/muziek/themesong.mp3)
