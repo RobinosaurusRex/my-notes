@@ -24,13 +24,8 @@ Have fun! En welkom in [[Enora]]!!!!!!!
 
 
 <audio controls>
-  <source src="/my-notes/themesong.mp3" type="audio/mpeg">
+  <source src="/muziek/themesong.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
-</audio>
-
-<audio controls>
-  <source src="/my-notes/themesong.mp3" type="audio/mpeg">
-  Je browser ondersteunt geen audio.
 </audio>
 
 
