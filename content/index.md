@@ -24,7 +24,7 @@ Have fun! En welkom in [[Enora]]!!!!!!!
 
 
 <audio controls>
-  <source src="my-notes/content/quartz.congif.ts/static/themesong.mp3" type="audio/mpeg">
+  <source src="my-notes/themesong.mp3" type="audio/mpeg">
 </audio>
 
 
@@ -37,3 +37,4 @@ Have fun! En welkom in [[Enora]]!!!!!!!
   <source src="/themesong.mp3" type="audio/mpeg">
 
 </audio>
+ test
