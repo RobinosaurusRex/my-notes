@@ -32,8 +32,8 @@ Have fun! En welkom in [[Enora]]!!!!!!!
   <source src="themesong.mp3" type="audio/mpeg">
 
 </audio>
-[Themesong](./static/themesong.mp3)
 
 <audio controls>
-  <source src="/static/themesong.mp3" type="audio/mpeg">
+  <source src="/themesong.mp3" type="audio/mpeg">
+
 </audio>
