@@ -24,10 +24,8 @@ Dat zal door 7 prachtige dobbelstenen beslist worden voor elk individu.
 Have fun! En welkom in [[Enora]]!!!!!!!
 
 <audio controls>
-  <source src="/muziek/themesong.mp3" type="audio/mpeg">
+  <source src="/my-notes/themesong.mp3" type="audio/mpeg">
   Je browser ondersteunt geen audio.
 </audio>
-
-t
 
 
