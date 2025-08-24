@@ -1,9 +1,9 @@
-🎶 Burning daylight 🎶
+🎶 Drinks & Dice 🎶
 <audio controls>
   <source src="https://robinosaurusrex.github.io/my-notes/static/muziek/burningdaylight.mp3" type="audio/mpeg">
 </audio>
 
-🎶 Moon-song 🎶
+🎶 Roll on, Enora! 🎶
 <audio controls>
   <source src="https://robinosaurusrex.github.io/my-notes/static/muziek/moonsong.mp3" type="audio/mpeg">
 </audio>
