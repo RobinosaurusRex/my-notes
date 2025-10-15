@@ -14,8 +14,8 @@
 </audaudio controls>
 
 <audio controls>
-  <source src="https://robinosaurusrex.github.io/my-notes/static/muziek/queenoffire.mp3" type="audio/mpeg">
-</audaudio controls>
+  <source src="https://robinosaurusrex.github.io/my-notes/public/static/muziek/balad.mp3" type="audio/mpeg">
+</audio controls>
 
 
-obsidian://open?vault=my-notes&file=public%2Fstatic%2Fmuziek%2FQueenoffire.mp3
+
